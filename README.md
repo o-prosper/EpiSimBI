@@ -35,7 +35,7 @@ I recommend installing miniconda3, which comes pre-packaged with Python 3.
 Software release systems such as Anaconda (__conda__ for short) make
 it possible to have several separate self-consistent named
 *environments* on a single machine, say your laptop. For example, you
-may need to use Python 3.7.5 and an associated set of compatible
+may need to use Python 3.8.5 and an associated set of compatible
 packages and at other times you may need to use Python 3.9.13 with
 packages that require that particular version of Python.  If you install software without using *environments* there is
 the very real danger that the software on your laptop will eventually become
