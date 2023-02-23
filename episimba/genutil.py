@@ -14,7 +14,6 @@ def CTMC(data,init_cond,trans_rates,trans_matrix,param_vals,param_names):
     tmin   = data.tmin
     tmax   = data.tmax
     maxiter = data.maxiter
-    
     # Set state variables equal to initial condition vector
     x  = [init_cond] # This will be used to save the state values at the reporting times
     xt = np.array(init_cond) # This will be used to update the states at each event time
