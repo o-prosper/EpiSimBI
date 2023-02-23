@@ -1,4 +1,4 @@
-Simulation-based Inference of Epidemiological Models
+# Simulation-based Inference of Epidemiological Models
 
 ## Introduction
 This repository contains jupyter notebooks that illustrate simulation-based inference on epidemiological models.
